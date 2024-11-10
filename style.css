@@ -1,0 +1,37 @@
+nav{
+  background-color: rgb(130, 88, 81) ;
+  width: 100%;
+}
+body{
+    background-color: rgba(219, 199, 129, 0.712);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;color: rgb(85, 55, 15);
+}
+
+img {
+    width: 100%;
+    border: 15px solid rgb(85, 55, 15);
+    margin-top: 10px;
+    padding: 0px;
+    margin: 20px;
+    border-radius: 10px;
+    position: relative; 
+    border-radius: 10%;
+   }
+  
+  iframe {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color: rgb(130, 88, 41);
+    font-style: ; ;
+  }
+
+  .li{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(130,88,41);
+  }
+  
+  
+  
